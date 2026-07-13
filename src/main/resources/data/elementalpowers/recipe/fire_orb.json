@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " B ",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "B": "minecraft:blaze_powder",
+    "C": "minecraft:fire_charge"
+  },
+  "result": {
+    "id": "elementalpowers:fire_orb",
+    "count": 1
+  }
+}

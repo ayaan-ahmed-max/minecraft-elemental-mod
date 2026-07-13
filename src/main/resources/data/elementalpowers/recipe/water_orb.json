@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:prismarine_shard",
+    "C": "minecraft:prismarine_crystals"
+  },
+  "result": {
+    "id": "elementalpowers:water_orb",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "CRC",
+    " C "
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "R": "minecraft:lightning_rod"
+  },
+  "result": {
+    "id": "elementalpowers:lightning_orb",
+    "count": 1
+  }
+}

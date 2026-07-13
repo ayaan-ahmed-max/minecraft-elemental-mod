@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "DED",
+    " D "
+  ],
+  "key": {
+    "D": "minecraft:cobbled_deepslate",
+    "E": "minecraft:emerald"
+  },
+  "result": {
+    "id": "elementalpowers:earth_orb",
+    "count": 1
+  }
+}
