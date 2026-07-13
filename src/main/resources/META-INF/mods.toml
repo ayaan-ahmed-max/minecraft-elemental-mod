@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[65,)"
+license="MIT"
+
+[[mods]]
+modId="elementalpowers"
+version="1.0.0"
+displayName="Elemental Powers"
+authors="Ayaan Ahmed"
+
+description='''Wield fire, water, earth and lightning through craftable elemental orbs.
+Designed to be featherweight: no tick handlers, no custom entities, and particle
+density you can dial down to zero for low-end PCs.'''
+
+[[dependencies.elementalpowers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[65,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.elementalpowers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.2,26.3)"
+    ordering="NONE"
+    side="BOTH"
